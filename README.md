@@ -46,4 +46,4 @@ The app auto-detects columns. Your CSV should include some of these:
 2. Export your forward/demo trade history as CSV
 3. Upload both files via the sidebar
 4. Explore the tabs: Overview, Backtest, Forward, Comparison, Raw Data
-<!-- updated: 2023-08-18-r01 -->
+<!-- updated: 2023-12-08-r01 -->
