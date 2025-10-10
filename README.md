@@ -48,4 +48,3 @@ The app auto-detects columns. Your CSV should include some of these:
 4. Explore the tabs: Overview, Backtest, Forward, Comparison, Raw Data
 <!-- updated: 2026-06-07 -->
 
-
